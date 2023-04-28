@@ -1,0 +1,1 @@
+{"version":3,"sources":["../Button.tsx"],"names":["jsx","Button"],"mappings":"AAGS,cAAAA,MAAA,oBADF,IAAMC,EAAS,IACbD,EAAC,UAAO,UAAU,wBAAwB,gBAAI","sourcesContent":["import * as React from \"react\";\n\nexport const Button = () => {\n  return <button className=\"px-3 py-2 bg-blue-300\">Boop</button>;\n};\n"]}

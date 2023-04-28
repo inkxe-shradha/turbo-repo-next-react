@@ -1,5 +1,5 @@
 import * as React from "react";
 
 export const Button = () => {
-  return <button>Boop</button>;
+  return <button className="px-3 py-2 bg-blue-300">Boop</button>;
 };
